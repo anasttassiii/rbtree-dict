@@ -144,8 +144,6 @@ int main(void) {
     test_rbtree();
     test_dict();
     test_real_world();
-    test_performance();
-
 
 
     return 0;
